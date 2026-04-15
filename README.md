@@ -1,58 +1,74 @@
-📊 AI Hiring Bias Detection in Recruitment
+📊 AI Hiring Bias Detection in Recruitment  
+*An MBA HR Analytics Project on Responsible AI*
 
-An MBA HR Analytics Project on Responsible AI in Recruitment
+---
 
-Overview
+## Overview  
+This project focuses on identifying and reducing bias in AI-based hiring systems. As organizations increasingly use AI for recruitment, there is a risk of unfair decision-making due to biased data or algorithms.
 
-This project focuses on identifying and reducing bias in AI-based hiring systems. With the growing use of AI in recruitment, there is a risk of unfair decision-making due to hidden biases in data.
+Using a synthetic dataset of job applicants, this project analyzes how factors like gender, education level, and experience influence hiring decisions and demonstrates methods to improve fairness in AI systems.
 
-Using a synthetic candidate dataset, this project analyzes how factors like gender, education, and experience can influence hiring outcomes and demonstrates techniques to make AI systems more fair and ethical.
+---
 
-Objectives
-Analyze bias in AI-driven hiring decisions
-Identify unfair patterns across different candidate groups
-Apply fairness techniques to reduce bias
-Promote responsible and ethical AI practices in HR
+## Objectives  
+- Analyze bias in AI-driven hiring decisions  
+- Identify patterns of unfair selection across candidate groups  
+- Apply basic fairness techniques to reduce bias  
+- Promote ethical and responsible AI practices in recruitment  
 
-Dataset
-Synthetic dataset of job applicants
-Features include:
-Gender
-Education Level
-College Tier
-Work Experience
-Skills Score
-Hiring Decision
+---
 
-Tools & Technologies
-Python
-Pandas
-NumPy
-Matplotlib / Seaborn
-Jupyter Notebook
+## Dataset  
+The dataset used in this project is synthetically generated and includes the following features:
 
-Key Analysis
-Distribution of hiring decisions across gender
-Impact of education and experience on selection
-Identification of biased patterns in AI decisions
-Visualization of fairness metrics
+- Gender  
+- Education Level  
+- College Tier  
+- Work Experience  
+- Skills Score  
+- Hiring Decision  
 
-Bias Mitigation Techniques
-Data balancing
-Fairness-aware evaluation
-Comparative analysis before and after bias reduction
+---
 
-Key Insights
-AI systems can unintentionally favor certain groups
-Bias in training data leads to unfair hiring outcomes
-Applying fairness techniques improves decision transparency
-Responsible AI is critical for modern HR practices
+## Tools & Technologies  
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib / Seaborn  
+- Jupyter Notebook  
 
-Conclusion
+---
 
-This project highlights the importance of fairness and ethics in AI-driven recruitment. Organizations must continuously monitor and improve their AI systems to ensure unbiased and inclusive hiring decisions.
+## Key Analysis  
+- Comparison of hiring rates across gender groups  
+- Impact of education and experience on hiring decisions  
+- Detection of biased patterns in AI outcomes  
+- Visualization of recruitment trends and fairness metrics  
 
-Author
+---
 
-Parul
-MBA (HR) Student – HR Analytics Enthusiast
+## Bias Mitigation Techniques  
+- Data balancing  
+- Fairness-aware evaluation  
+- Before vs After bias comparison  
+
+---
+
+## Key Insights  
+- AI systems can unintentionally introduce bias  
+- Biased training data leads to unfair hiring outcomes  
+- Fairness techniques improve transparency and trust  
+- Ethical AI is essential in modern HR practices  
+
+---
+
+## Conclusion  
+This project highlights the importance of fairness in AI-based recruitment systems. Organizations must continuously monitor and improve their AI models to ensure unbiased and inclusive hiring decisions.
+
+---
+
+## Author  
+**Parul**  
+MBA (HR) Student | HR Analytics Enthusiast  
+
+---
