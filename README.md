@@ -1,4 +1,4 @@
-AI Hiring Bias Detection in Recruitment
+📊 AI Hiring Bias Detection in Recruitment
 
 An MBA HR Analytics Project on Responsible AI in Recruitment
 
